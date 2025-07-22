@@ -37,3 +37,6 @@ Clone the repo and install dependencies:
 ```bash
 git clone https://github.com/your-username/react-projects.git
 cd react-projects
+cd project-name
+npm install
+npm start
