@@ -18,6 +18,7 @@ A text utility web app for string manipulation and analysis.
 - Remove extra spaces
 - Count characters and words
 - Dark/Light mode toggle
+- and many other features 
 
 ---
 
