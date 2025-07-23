@@ -4,7 +4,7 @@ A collection of React.js projects built for learning, experimenting, and buildin
 
 ## 🚀 Projects Included
 
-### 📱 [NewsApp](./newsapp)
+### 📱 [NewsApp](./newsapp)(INCOMPLETE)
 A simple news app built using React and external news APIs.
 
 - Fetches live headlines using REST APIs
